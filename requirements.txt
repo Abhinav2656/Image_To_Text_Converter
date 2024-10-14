@@ -2,4 +2,4 @@ streamlit
 transformers
 requests
 python-dotenv
-tensorflow==2.8.0
+tensorflow
