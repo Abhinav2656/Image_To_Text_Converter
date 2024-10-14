@@ -3,3 +3,4 @@ transformers
 requests
 python-dotenv
 torch
+tf-keras==2.17.0
