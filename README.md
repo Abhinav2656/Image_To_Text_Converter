@@ -4,33 +4,34 @@ This a Image to text converter tool using COHERE API and Hugging Face API.
 
 This tool takes an image as an input and generates a scenario which is nothing but a small description of the image that is generated. Further more the tool generates a random story based on the small description that is generated early than this. The story generated is related to the generated scenario which is very random.
 
+![download](https://github.com/user-attachments/assets/a2121691-7151-4baa-bdc1-62cd7e5e7287)
 
 To use the project from GitHub, anyone can follow these steps:
 
- Step 1: Clone the Repository
+ #### Step 1: Clone the Repository
 To clone the project from GitHub to a local machine, use the following command:
 
-1. Copy the repository URL:
+1. **Copy the repository URL**:
    - Go to your GitHub repository page.
    - Click the green "Code" button.
    - Copy the URL (HTTPS or SSH).
 
-2. Open a terminal on your machine and run:
+2. **Open a terminal on your machine and run**:
    ```bash
    git clone https://github.com/YourUsername/YourRepoName.git
    ```
    Replace `YourUsername/YourRepoName` with the actual username and repository name.
 
-3. Navigate to the cloned repository:
+3. **Navigate to the cloned repository**:
    ```bash
    cd YourRepoName
    ```
 
- Step 2: Set Up the Project Locally
+ ### Step 2: Set Up the Project Locally
 Once the code is cloned, follow these steps to run it on a local machine.
 
- Option 1: Using Python's Built-In Environment Management
-1. Create a virtual environment:
+ #### Option 1: Using Python's Built-In Environment Management
+1. **Create a virtual environment**:
    ```bash
    python -m venv venv
    ```
@@ -94,4 +95,6 @@ Open that link in a web browser to use the application.
 5. **Add API keys** to the `.env` file.
 6. **Run the Streamlit app**: `streamlit run app.py`
 
-Once these steps are completed, the application should be running and available for use. Let me know if you need further assistance!
+Once these steps are completed, the application should be running and available for use.
+
+
